@@ -15,4 +15,6 @@ public class ItensDeConsumo {
     public double getPreco(){
         return this.preco;
     }
+
+    
 }
